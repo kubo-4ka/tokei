@@ -1,0 +1,18 @@
+{
+  "name": "シンプル時計",
+  "short_name": "時計",
+  "description": "色・大きさ・フォント・地域・曜日・日本語／英語・秒やミリ秒を自由に変えられる、ずっと表示しておくためのシンプルな時計",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#0b0b10",
+  "theme_color": "#0b0b10",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

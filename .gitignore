@@ -1,0 +1,5 @@
+# ローカル確認用の自己署名証明書（秘密鍵を含むので公開しない）
+tools/certs/
+node_modules/
+.DS_Store
+Thumbs.db
